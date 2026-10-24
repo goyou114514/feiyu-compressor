@@ -1,0 +1,19 @@
+# 开发过程与个人文件（不发布）
+开发压缩解压程序.txt
+c1a63952466a810cff93db486797f71c.jpeg
+assets_prep.py
+tools/7za920/
+
+# 运行与调试产物
+*.log
+ui_shot_*.png
+ui_done_*.png
+ui_wrong_password.png
+test_*
+*.tmp
+cli_error.log
+debug.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
