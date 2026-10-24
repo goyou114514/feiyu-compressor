@@ -56,3 +56,9 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 ## 免责声明
 
 本项目仅用于个人文件的加密与备份。请遵守你使用的网盘 / 存储服务的用户协议以及当地法律法规。
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)，Copyright (c) 2026 goyou114514。
+
+内置的 7-Zip 命令行引擎（`7zr.exe`）遵循 LGPL 许可；站酷快乐体遵循 SIL Open Font License。
